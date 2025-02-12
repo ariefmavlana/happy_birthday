@@ -36,13 +36,13 @@ function Card() {
       <div id="card" className={`${cardClass}`} onClick={toggleCard}>     
         <div id="card-inside">
           <div className="wrap">
-          <p>Happy Birthday, Alif!</p>
-              <p>Selamat ulang tahun yang ke-26, Alif! Di usia baru ini, semoga kamu selalu dikelilingi oleh kebahagiaan, kesehatan, dan orang-orang yang menyayangimu.</p>
+          <p>Happy Birthday, Hildaa!</p>
+              <p>Selamat ulang tahun yang ke-26, Hilda! Di usia baru ini, semoga kamu selalu dikelilingi oleh kebahagiaan, kesehatan, dan orang-orang yang menyayangimu.</p>
               <p>
                 I hope this year brings you closer to everything you`ve ever dreamed of. 
               </p>
               <p>
-                Aku bersyukur pernah punya kesempatan mengenalmu lebih dekat. Kamu adalah sosok yang spesial.
+                Semoga panjang umur, sehaat teruss dan semangaat bekerjaa wkwk.
               </p>
               <p>
                 Semoga kamu terus menjadi versi terbaik dirimu.
@@ -54,7 +54,7 @@ function Card() {
 
         <div id="card-front">
           <div className="wrap">
-            <h1>Happy Birthday, Alifff!</h1>
+            <h1>Happy Birthday!</h1>
           </div>
         </div>
     </div>
